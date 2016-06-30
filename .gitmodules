@@ -1,0 +1,6 @@
+[submodule "cfndsl"]
+	path = cfndsl
+	url = https://github.com/VivaReal/cfndsl
+[submodule "make"]
+	path = make
+	url = https://github.com/VivaReal/make-snippets
